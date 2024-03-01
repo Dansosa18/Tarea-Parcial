@@ -1,0 +1,14 @@
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Ejemplos Practicos\bin\Debug\net8.0\Ejemplos Practicos.exe
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Ejemplos Practicos\bin\Debug\net8.0\Ejemplos Practicos.deps.json
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Ejemplos Practicos\bin\Debug\net8.0\Ejemplos Practicos.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Ejemplos Practicos\bin\Debug\net8.0\Ejemplos Practicos.dll
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Ejemplos Practicos\bin\Debug\net8.0\Ejemplos Practicos.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Ejemplos Practicos\obj\Debug\net8.0\Ejemplos Practicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Ejemplos Practicos\obj\Debug\net8.0\Ejemplos Practicos.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Ejemplos Practicos\obj\Debug\net8.0\Ejemplos Practicos.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Ejemplos Practicos\obj\Debug\net8.0\Ejemplos Practicos.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Ejemplos Practicos\obj\Debug\net8.0\Ejemplos Practicos.dll
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Ejemplos Practicos\obj\Debug\net8.0\refint\Ejemplos Practicos.dll
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Ejemplos Practicos\obj\Debug\net8.0\Ejemplos Practicos.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Ejemplos Practicos\obj\Debug\net8.0\Ejemplos Practicos.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Ejemplos Practicos\obj\Debug\net8.0\ref\Ejemplos Practicos.dll

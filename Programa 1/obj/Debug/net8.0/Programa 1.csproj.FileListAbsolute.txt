@@ -1,0 +1,14 @@
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Parcial 1\bin\Debug\net8.0\Programa 1.exe
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Parcial 1\bin\Debug\net8.0\Programa 1.deps.json
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Parcial 1\bin\Debug\net8.0\Programa 1.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Parcial 1\bin\Debug\net8.0\Programa 1.dll
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Parcial 1\bin\Debug\net8.0\Programa 1.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Parcial 1\obj\Debug\net8.0\Programa 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Parcial 1\obj\Debug\net8.0\Programa 1.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Parcial 1\obj\Debug\net8.0\Programa 1.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Parcial 1\obj\Debug\net8.0\Programa 1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Parcial 1\obj\Debug\net8.0\Programa 1.dll
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Parcial 1\obj\Debug\net8.0\refint\Programa 1.dll
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Parcial 1\obj\Debug\net8.0\Programa 1.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Parcial 1\obj\Debug\net8.0\Programa 1.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Parcial 1\obj\Debug\net8.0\ref\Programa 1.dll

@@ -1,0 +1,14 @@
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Operaciones con Cadenas\bin\Debug\net8.0\Operaciones con Cadenas.exe
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Operaciones con Cadenas\bin\Debug\net8.0\Operaciones con Cadenas.deps.json
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Operaciones con Cadenas\bin\Debug\net8.0\Operaciones con Cadenas.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Operaciones con Cadenas\bin\Debug\net8.0\Operaciones con Cadenas.dll
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Operaciones con Cadenas\bin\Debug\net8.0\Operaciones con Cadenas.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Operaciones con Cadenas\obj\Debug\net8.0\Operaciones con Cadenas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Operaciones con Cadenas\obj\Debug\net8.0\Operaciones con Cadenas.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Operaciones con Cadenas\obj\Debug\net8.0\Operaciones con Cadenas.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Operaciones con Cadenas\obj\Debug\net8.0\Operaciones con Cadenas.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Operaciones con Cadenas\obj\Debug\net8.0\Operaciones con Cadenas.dll
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Operaciones con Cadenas\obj\Debug\net8.0\refint\Operaciones con Cadenas.dll
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Operaciones con Cadenas\obj\Debug\net8.0\Operaciones con Cadenas.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Operaciones con Cadenas\obj\Debug\net8.0\Operaciones con Cadenas.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Parcial 1\Operaciones con Cadenas\obj\Debug\net8.0\ref\Operaciones con Cadenas.dll
